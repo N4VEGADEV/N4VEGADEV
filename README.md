@@ -14,6 +14,10 @@
   <img src="https://img.shields.io/badge/Node.js-153c32?style=for-the-badge&logo=nodedotjs&logoColor=3fffa4" />
   <img src="https://img.shields.io/badge/GitHub-153c32?style=for-the-badge&logo=github&logoColor=3fffa4" />
   <img src="https://img.shields.io/badge/Python-153c32?style=for-the-badge&logo=python&logoColor=3fffa4" />
+  <img src="https://img.shields.io/badge/Django-153c32?style=for-the-badge&logo=django&logoColor=3fffa4" />
+  <img src="https://img.shields.io/badge/PostgreSQL-153c32?style=for-the-badge&logo=postgresql&logoColor=3fffa4" />
+  <img src="https://img.shields.io/badge/Docker-153c32?style=for-the-badge&logo=docker&logoColor=3fffa4" />
+  
 </p>
 
 ---
