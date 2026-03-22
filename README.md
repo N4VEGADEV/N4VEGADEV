@@ -4,10 +4,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=153c32&height=120&section=header&text=ACCESS%20GRANTED&fontSize=50&fontColor=3fffa4" />
 </p>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=matrix&quote=The%20system%20is%20only%20as%20secure%20as%20the%20mind%20behind%20it.&bg_color=153c32&font_color=3fffa4" />
-</p>
-
 ---
 
 ### 📂 [DIRECTORY: /SKILLS]
