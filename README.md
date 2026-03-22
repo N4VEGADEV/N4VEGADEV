@@ -19,13 +19,9 @@
 
 ### 📊 [SYSTEM_STATS]
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=N4VEGADEV&show_icons=true&theme=matrix&bg_color=153c32&title_color=3fffa4&text_color=3fffa4&icon_color=3fffa4&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=N4VEGADEV&show_icons=true&bg_color=153c32&title_color=3fffa4&text_color=3fffa4&icon_color=3fffa4&hide_border=true&count_private=true" />
   
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N4VEGADEV&layout=compact&theme=matrix&bg_color=153c32&title_color=3fffa4&text_color=3fffa4&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=N4VEGADEV&theme=matrix&background=153c32&ring=3fffa4&fire=3fffa4&currStreakLabel=3fffa4&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N4VEGADEV&layout=compact&bg_color=153c32&title_color=3fffa4&text_color=3fffa4&icon_color=3fffa4&hide_border=true" />
 </p>
 
 ---
