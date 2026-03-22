@@ -23,15 +23,5 @@
 
 ### 📊 [SYSTEM_STATS]
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USER&show_icons=true&theme=matrix&bg_color=153c32&title_color=3fffa4&text_color=3fffa4&icon_color=3fffa4&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USER&layout=compact&theme=matrix&bg_color=153c32&title_color=3fffa4&text_color=3fffa4&hide_border=true" />
-</p>
-
----
-
-### 📡 [CONNECTION_ESTABLISHED]
-<p align="left">
-  <a href="https://linkedin.com/in/SEU_PERFIL">
-    <img src="https://img.shields.io/badge/LINKEDIN-153c32?style=for-the-badge&logo=linkedin&logoColor=3fffa4" />
-  </a>
-</p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=N4VEGADEVO&show_icons=true&theme=matrix&bg_color=153c32&title_color=3fffa4&text_color=3fffa4&icon_color=3fffa4&hide_border=true" />
+  <img height="170" src="
