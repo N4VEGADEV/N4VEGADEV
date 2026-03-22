@@ -34,11 +34,8 @@
 
 ### 📡 [CONNECTION_ESTABLISHED]
 <p align="left">
-  <a href="mailto:seuemail@exemplo.com">
+  <a href="mailto:thaychom@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-153c32?style=for-the-badge&logo=gmail&logoColor=3fffa4" />
-  </a>
-  <a href="https://linkedin.com/in/seu-perfil">
-    <img src="https://img.shields.io/badge/LINKEDIN-153c32?style=for-the-badge&logo=linkedin&logoColor=3fffa4" />
   </a>
 </p>
 
